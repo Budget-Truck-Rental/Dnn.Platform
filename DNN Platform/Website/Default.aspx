@@ -35,5 +35,7 @@
             <dnncrm:ClientResourcePath Name="SharedScripts" Path="~/Resources/Shared/Scripts/" />
         </Paths>
     </dnncrm:ClientResourceLoader>
+
+   <%-- test check-in--%>
 </body>
 </html>
